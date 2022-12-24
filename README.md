@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BellowAverage;
 - 👀 I can do:
 -   Python : Data Analysis (Machine Learning), Django-based web dev (mainly backend),
--     Other commonly used libs,
+      Other commonly used libs,
 -   C++ : Unreal engine basics, Data structures based algorithms basics,
 -   using Others: database (mainly mysql), Kettle (data processing), Blender basics,
 -   ... (on Linux or Windows);
