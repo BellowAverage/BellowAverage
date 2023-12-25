@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning web frontend (html css js);
 - 💞️ I’m looking to every more studying & career oppotunities, as a Uni Student;
 - 📫 How to reach me: 18221546090 (WeChat & CN Mainland Phone Number),
--     loc: Jing'an, Shanghai.
 
 <!---
 BellowAverage/BellowAverage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
