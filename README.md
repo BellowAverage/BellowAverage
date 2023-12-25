@@ -2,7 +2,7 @@
 - 👀 I can do:
 -   Python : Data Analysis (Machine Learning), Django-based web dev (mainly backend),
       Other commonly used libs,
--   C++ : Unreal engine basics, Data structures based algorithms basics,
+-   C++ : Unreal engine basics, Data structures and algorithms basics,
 -   using Others: database (mainly mysql), Kettle (data processing), Blender basics,
 -   ... (on Linux or Windows);
 - 🌱 I’m currently learning web frontend (html css js);
