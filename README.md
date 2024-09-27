@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Chris Wang @BellowAverage from Northwestern University, Evanston.
-- 📧 Contact me through chriswang2025@u.northwestern.edu.
-- 👀 I can do:
--   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning, Visualization ...), Django-based web dev (using nginx & uwsgi deployment), etc.
--   C++ : Unreal Engine blueprints & C++, Data structures and basic algorithms.
--   Others: database (mainly mysql), Kettle (data processing), Blender basics,
-- ... (on Linux or Windows);
-- 🌱 I’m currently learning Go and R as part of the curriculums;
-- 💞️ I’m looking to every possible studying & career oppotunities, as a Uni Student;
-- 📫 Other Contacts: +86 18221546090 (WeChat & CN Mainland Phone Number);
-- +1 312-684-9989 (United States Phone & WhatsApp)
+- 👋 I’m Chris Wang @BellowAverage from Northwestern University, Evanston;
+- 📧 Contact me through chriswang2025@u.northwestern.edu;
+- 👀 I'm engaged in:
+-   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning, Visualization), Django-based web dev (using nginx & uwsgi deployment);
+-   C++ : Unreal Engine blueprints & C++, Data structures and basic algorithms;
+-   Others: database system, Kettle (data processing), distributive calculation;
+- 🌱 I’m learning Go and R data engineering as part of the curriculums;
