@@ -1,6 +1,6 @@
 - 👋 I’m Chris Wang @BellowAverage from Northwestern University, Evanston;
 - 📧 Contact me through chriswang2025@u.northwestern.edu;
-- 👀 I'm proficient in:
+- 👀 I'm interested in:
 -   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning, Visualization), Django-based web dev (nginx & uwsgi deployment), pygame;
 -   C++ : Unreal Engine blueprints & C++, Data structures and basic algorithms;
 -   Others: database system, Kettle (data processing), distributive calculation;
