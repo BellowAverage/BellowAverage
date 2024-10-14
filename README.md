@@ -2,7 +2,7 @@
 - 📧 Contact me through chriswang2025@u.northwestern.edu;
 - 👀 I'm interested in:
 -   C++ : Data structures and algorithms; Unreal Engine blueprints & C++
--   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning, Visualization), Django-based web dev (nginx & uwsgi deployment)
+-   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning), Django web dev (nginx & uwsgi deployment)
 -   Go: Network programming & Hugo & Server application dev
 -   Others: database system & warehouse, Kettle (data processing), distributive calculation;
 - 🌱 I’m learning Go data engineering and R data analysis as part of the curriculums;
