@@ -6,4 +6,4 @@
 -   Go: Network programming & Hugo & Server application dev
 -   Others: database system & warehouse, Kettle (data processing), distributive calculation;
 -   I'm learning Go data engineering as part of the curriculum;
--  ☕︎ I'm currently working on a C++/Blueprints Unreal project aimming at creating a (better than default) universal TopDown game template.
+-  ☕︎ I'm currently working on an Unreal project aimming at creating a (better than default) universal TopDown game template.
