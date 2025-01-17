@@ -5,4 +5,5 @@
 -   Python : Data Engineering (Mining, ETL, Pipline, Machine Learning), Django web dev (nginx & uwsgi deployment)
 -   Go: Network programming & Hugo & Server application dev
 -   Others: database system & warehouse, Kettle (data processing), distributive calculation;
-- 🌱 I’m learning Go data engineering and R data analysis as part of the curriculums;
+-   I'm learning Go data engineering as part of the curriculum;
+-  ☕︎ I'm currently working on a C++/Blueprints Unreal project aimming at creating a (better than default) universal TopDown game template.
