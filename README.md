@@ -1,4 +1,4 @@
-👋 I’m Chris Wang @BellowAverage from Northwestern University, U.S.;
+👋 I’m Chris Wang @BellowAverage from Northwestern University, Evanston.;
 
 🌱 I'm interested in:
 -   C++ : Data structures and algorithms; Unreal Engine blueprints & C++
