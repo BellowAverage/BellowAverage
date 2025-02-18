@@ -11,4 +11,4 @@
 -   An Unreal project aimming at creating a (better than default) universal TopDown game template;
 
 📧 Contact me through chriswang2025@u.northwestern.edu;
--   Connect here: https://www.linkedin.com/in/chris-wang-a4b1a9216?trk=contact-info
+https://www.linkedin.com/in/chris-wang-a4b1a9216?trk=contact-info
