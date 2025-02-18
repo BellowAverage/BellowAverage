@@ -10,5 +10,6 @@
 -   Go data engineering as part of the curriculum
 -   An Unreal project aimming at creating a (better than default) universal TopDown game template;
 
-📧 Contact me through chriswang2025@u.northwestern.edu;
-https://www.linkedin.com/in/chris-wang-a4b1a9216?trk=contact-info
+📧 Contact me through:
+- chriswang2025@u.northwestern.edu;
+- https://www.linkedin.com/in/chris-wang-a4b1a9216?trk=contact-info
